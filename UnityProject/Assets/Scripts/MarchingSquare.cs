@@ -30,7 +30,6 @@ public class MarchingSquare : MonoBehaviour
 
         public void ClearLines()
         {
-            Debug.LogError($"Cell \"({x},{y})\" was clear.");
             lines.Clear();
         }
 

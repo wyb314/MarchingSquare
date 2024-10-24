@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TestTools.CodeCoverag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Burst.CodeGen", "Unity.Burst.CodeGen.csproj", "{EA01A466-3C81-3F16-A520-AF27AF937B6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{1A619002-4B9A-6116-9B31-D1EC3C3EFBA5}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALINE", "ALINE.csproj", "{D5EAF894-BA9A-9474-4BED-925B6B398BB9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.VisualScripting.State", "Unity.VisualScripting.State.csproj", "{EF30AEFA-C556-A192-939F-EBEED4161A6F}"
@@ -207,6 +209,10 @@ Global
 		{EA01A466-3C81-3F16-A520-AF27AF937B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA01A466-3C81-3F16-A520-AF27AF937B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA01A466-3C81-3F16-A520-AF27AF937B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A619002-4B9A-6116-9B31-D1EC3C3EFBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A619002-4B9A-6116-9B31-D1EC3C3EFBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A619002-4B9A-6116-9B31-D1EC3C3EFBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A619002-4B9A-6116-9B31-D1EC3C3EFBA5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D5EAF894-BA9A-9474-4BED-925B6B398BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D5EAF894-BA9A-9474-4BED-925B6B398BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5EAF894-BA9A-9474-4BED-925B6B398BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
